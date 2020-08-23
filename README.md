@@ -6,6 +6,5 @@ In short:
 * Extracted from Kaggle
 * Transformed with Python 
 * Loaded into MySQL Database 
-</br>
 Then if data is in desired Format:
 * Complex Querying in Metabase
